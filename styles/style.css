@@ -1,0 +1,42 @@
+body{
+     font-size: 20px;
+     font-family: fantasy;
+
+}
+p{
+    color: rgb(81, 210, 30);
+    margin: 25px 0;
+    
+}
+div{
+    width: 60%;
+    margin:auto;
+    padding: 50px;
+    background-color: #365a38;
+    box-shadow: 0 0 10px 1px rgba(0,0,0,0.2)
+}
+h1{
+    color:yellow;
+    font-size: 60px;
+}
+a{
+    text-emphasis: none;
+    color: rgb(35, 197, 35);
+    display: inline-block;
+    margin: 20px 0;
+    border-bottom: 4px solid transparent;
+    transition: 1s ease-in;
+}
+
+img{
+    max-width: 60%;
+    height: auto;
+    display: block;
+}
+p{
+    color: crimson;
+    font-family: monospace;
+}
+a:hover {
+    border-bottom-color:yellow;
+}
